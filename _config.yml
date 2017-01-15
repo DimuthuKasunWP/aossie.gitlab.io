@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://aossie.gitlab.io
+baseurl: 
 
 exclude:
   - vendor
