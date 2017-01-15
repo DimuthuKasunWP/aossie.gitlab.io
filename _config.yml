@@ -1,6 +1,14 @@
 url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
+  - package.json
+
 # Site settings
 title: Awesome Title
 email: your-email@domain.com
