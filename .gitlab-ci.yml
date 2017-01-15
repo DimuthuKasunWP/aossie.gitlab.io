@@ -1,10 +1,17 @@
 image: ruby:2.3
 
+# add bundle cache to 'vendor' for speeding up builds
+cache:
+  paths: 
+    - vendor/
+
+before_script:
+  - bundle install --path vendor
+
 pages:
   stage: deploy
   script:
-  - gem install jekyll
-  - jekyll build -d public/
+  - bundle exec jekyll build -d public/
   artifacts:
     paths:
     - public
