@@ -10,16 +10,16 @@ exclude:
   - package.json
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: AOSSIE
+email: aossie@gmail.com
+description: "Australian Open-Source Software Innovation and Education"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Bruno Woltzenlogel Paleo
   pic: 1
-  position: Lead Designer
+  position: Org-Admin
   social:
     - title: twitter
       url: #
@@ -28,7 +28,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Ekaterina Lebedeva
   pic: 2
   position: Lead Marketer
   social:
@@ -39,9 +39,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Chirag Arora
   pic: 3
-  position: Lead Developer
+  position: 
   social:
     - title: twitter
       url: #
@@ -52,21 +52,23 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://aossie.gitlab.io
+  - title: google-plus
+    url: http://aossie.gitlab.io
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Canberra
+  - line: Australia
 
 # Build settings
 markdown: kramdown
