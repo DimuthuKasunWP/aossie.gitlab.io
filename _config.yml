@@ -61,9 +61,9 @@ social:
 #  - title: bitbucket 
 #    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://aossie.gitlab.io
+    url: http://www.gitlab.com/aossie
   - title: google-plus
-    url: http://aossie.gitlab.io
+    url: https://groups.google.com/forum/#!forum/aossie-gsoc-2017
 
 # Postal address (add as many lines as necessary)
 address:
