@@ -1,4 +1,4 @@
-url: https://aossie.gitlab.io
+url: https://www.aossie.org
 baseurl: 
 
 exclude:
@@ -11,7 +11,7 @@ exclude:
 
 # Site settings
 title: AOSSIE
-email: aossie@gmail.com
+email: aossie-gsoc-2017@googlegroups.com
 description: "Australian Open-Source Software Innovation and Education"
 
 
@@ -49,6 +49,14 @@ people:
       url: #
     - title: google-plus
       url: #
+
+# Ideas
+ideas:
+- title: Performance, Performance, Performance!
+  project: Skeptik
+  id: 1
+  description: skeptik-1.md
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
