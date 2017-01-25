@@ -34,7 +34,7 @@ We recommend reading our [papers and talk slides](https://gitlab.com/aossie/Comp
 
 For this project, we are looking for a student with:
 
-- good knowledge of logic (especially higher-order logic and the Isabelle proof system)
+- good knowledge of logic (especially higher-order logic and the Isabelle proof assistant)
 
 - a deep interest in philosophy
 
