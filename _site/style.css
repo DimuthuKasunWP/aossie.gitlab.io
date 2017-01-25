@@ -363,19 +363,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio .portfolio-item {
+#ideas .ideas-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#ideas .ideas-item .ideas-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#ideas .ideas-item .ideas-link .ideas-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -387,11 +387,11 @@ section h3.section-subheading {
     background: rgba(254,209,54, .9);
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+#ideas .ideas-item .ideas-link .ideas-hover:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#ideas .ideas-item .ideas-link .ideas-hover .ideas-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -402,41 +402,42 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#ideas .ideas-item .ideas-link .ideas-hover .ideas-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#ideas .ideas-item .ideas-link .ideas-hover .ideas-hover-content h3,
+#ideas .ideas-item .ideas-link .ideas-hover .ideas-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#ideas .ideas-item .ideas-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
     text-align: center;
     background-color: #fff;
+    border-style: solid;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#ideas .ideas-item .ideas-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+#ideas .ideas-item .ideas-caption p {
     margin: 0;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
 
-#portfolio * {
+#ideas * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #ideas .ideas-item {
         margin: 0 0 30px;
     }
 }
@@ -782,7 +783,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.portfolio-modal .modal-content {
+.ideas-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -791,34 +792,35 @@ ul.social-buttons li a:active {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    background-color: #ffe;
 }
 
-.portfolio-modal .modal-content h2 {
+.ideas-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content p {
+.ideas-modal .modal-content p {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content p.item-intro {
+.ideas-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
 
-.portfolio-modal .modal-content ul.list-inline {
+.ideas-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content img {
+.ideas-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .close-modal {
+.ideas-modal .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
@@ -828,11 +830,11 @@ ul.social-buttons li a:active {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
+.ideas-modal .close-modal:hover {
     opacity: .3;
 }
 
-.portfolio-modal .close-modal .lr {
+.ideas-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -843,7 +845,7 @@ ul.social-buttons li a:active {
     transform: rotate(45deg);
 }
 
-.portfolio-modal .close-modal .lr .rl {
+.ideas-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;

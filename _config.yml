@@ -1,4 +1,4 @@
-url: https://www.aossie.org
+url: https://aossie.gitlab.io
 baseurl: 
 
 exclude:
@@ -52,10 +52,59 @@ people:
 
 # Ideas
 ideas:
-- title: Performance, Performance, Performance!
-  project: Skeptik
+- project: Agora
+  title: More Algorithms
   id: 1
-  description: skeptik-1.md
+  description: agora-algorithms.md
+- project: Agora
+  title: Web Front-End
+  id: 2
+  description: agora-web.md
+- project: Carbon Footprint
+  title: Mobile App
+  id: 3
+  description: footprint-mobile.md
+- project: Carbon Footprint
+  title: Footprint for Flights
+  id: 4
+  description: footprint-flights.md
+- project: Carbon Footprint
+  title: API
+  id: 5
+  description: footprint-api.md
+- project: Computational Philosophy
+  title: Ontological Arguments
+  id: 6
+  description: philosophy-ontological.md
+- project: Mind The Word
+  title: Firefox and Safari Ports
+  id: 7
+  description: mtw-ports.md
+- project: Mind The Word
+  title: Mobile App
+  id: 8
+  description: mtw-mobile.md
+- project: Scavenger
+  title: Equality Reasoning
+  id: 9
+  description: scavenger-equality.md
+- project: Scavenger
+  title: Parallel Theorem Proving
+  id: 10
+  description: scavenger-parallel.md
+- project: Scavenger
+  title: Search Improvements
+  id: 11
+  description: scavenger-improvements.md
+- project: Skeptik
+  title: Interpolation
+  id: 12
+  description: skeptik-interpolation.md
+- project: Skeptik
+  title: Boosting Performance!
+  id: 13
+  description: skeptik-performance.md
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

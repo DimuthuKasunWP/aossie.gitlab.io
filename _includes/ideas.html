@@ -1,4 +1,4 @@
-<!-- Portfolio Grid Section -->
+<!-- ideas Grid Section -->
     <section id="ideas" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -9,21 +9,21 @@
             </div>
             <div class="row">
             {% for idea in site.ideas %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ idea.id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+            	<a href="#ideasModal{{ idea.id }}" class="ideas-link" data-toggle="modal">
+                	<div class="col-md-4 col-sm-6 ideas-item">
+                        <div class="ideas-hover">
+                            <div class="ideas-hover-content">
+                                <i class="fa fa-lightbulb-o fa-3x"></i>
                             </div>
                         </div>
                         <!--<img src="img/idea-images/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">-->
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ idea.title }}</h4>
-                        <p class="text-muted">{{ idea.project }}</p>
-                    </div>
-                </div>
-            {% endfor %}
+	                    <div class="ideas-caption">
+	                        <h4>{{ idea.title }}</h4>
+	                        <p class="text-muted">{{ idea.project }}</p>
+	                    </div>
+                	</div>
+                </a>
+            {% endfor %} 
             </div>
         </div>
     </section>

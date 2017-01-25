@@ -1,7 +1,7 @@
 
 ## Skeptik
 
-### Idea: Performance, Performance!
+### Idea: Boosting Performance!
 
 #### Description
 
