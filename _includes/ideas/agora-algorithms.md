@@ -9,7 +9,7 @@ Agora is a library of data structures and algorithms for counting votes in elect
 
 This project idea aims to expand Agora's collection of algorithms. We would like Agora to provide at least all algorithms listed in the leftmost collumn of [this wikipedia table](https://en.wikipedia.org/wiki/Voting_system#Compliance_of_selected_systems_.28table.29).
 
-Vote-counting methods are often not described in a algorithmically precise way. Therefore, one of the challenges of this project is to be able to comprehend natural language specifications of vote-counting methods and produce a clear implementation that does what the specification wants.
+Vote-counting methods are often not described in an algorithmically precise way. Therefore, one of the challenges of this project is to be able to comprehend natural language specifications of vote-counting methods and produce a clear implementation that does what the specification wants.
 
 
 #### Requirements
