@@ -1,7 +1,7 @@
 
 ## Mind The Word
 
-### Idea: Mobile App
+### Idea: Firefox and Safari Ports
 
 #### Description
 
