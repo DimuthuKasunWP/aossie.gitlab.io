@@ -28,7 +28,7 @@ For this project, we are looking for a student:
 
 #### Mentors
 
-Chirag Arora, Kolya Opahle, Bruno Woltzenlogel Paleo
+Chirag Arora, Kolya Opahle, Prateek Gupta, Bruno Woltzenlogel Paleo
 
 
 
