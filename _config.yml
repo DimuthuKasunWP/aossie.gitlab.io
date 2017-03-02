@@ -72,37 +72,41 @@ ideas:
   title: API
   id: 5
   description: footprint-api.md
+- project: Carbon Footprint
+  title: WebExtensions
+  id: 6
+  description: footprint-webext.md
 - project: Computational Philosophy
   title: Ontological Arguments
-  id: 6
+  id: 7
   description: philosophy-ontological.md
 - project: Mind The Word
   title: Firefox and Safari Ports
-  id: 7
+  id: 8
   description: mtw-ports.md
 - project: Mind The Word
   title: Mobile App
-  id: 8
+  id: 9
   description: mtw-mobile.md
 - project: Scavenger
   title: Equality Reasoning
-  id: 9
+  id: 10
   description: scavenger-equality.md
 - project: Scavenger
   title: Parallel Theorem Proving
-  id: 10
+  id: 11
   description: scavenger-parallel.md
 - project: Scavenger
   title: Search Improvements
-  id: 11
+  id: 12
   description: scavenger-improvements.md
 - project: Skeptik
   title: Interpolation
-  id: 12
+  id: 13
   description: skeptik-interpolation.md
 - project: Skeptik
   title: Boosting Performance!
-  id: 13
+  id: 14
   description: skeptik-performance.md
 
 
