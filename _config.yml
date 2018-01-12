@@ -81,9 +81,9 @@ ideas:
   id: 7
   description: footprint-macOS.md
 - project: Computational Philosophy
-  title: Ontological Arguments
+  title: Library for Philosophical Logic
   id: 8
-  description: philosophy-ontological.md
+  description: philosophy.md
 - project: Mind The Word
   title: Firefox and Safari Ports
   id: 9
