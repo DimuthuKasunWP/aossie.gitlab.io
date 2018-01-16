@@ -112,7 +112,10 @@ ideas:
   title: Boosting Performance!
   id: 15
   description: skeptik-performance.md
-
+- project: Stardroid
+  title: Google Sky Maps
+  id: 16
+  description: stardroid.md
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
