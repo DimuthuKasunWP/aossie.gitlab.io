@@ -1,28 +1,26 @@
-
 ## Carbon Footprint
 
 ### Idea: Mobile App
 
 #### Description
 
-Carbon Footprint is currently a browser extension (for Chrome, Firefox and Safari) that calculates and displays the CO2 emissions incurred when driving (or using public transportation) on routes suggested by map services such as Google Maps, Here and Open Street Map. Initially, it was an extension for Google Chrome only and it worked only on Google Maps. 
+Carbon Footprint is currently a browser extension (for Chrome, Firefox and Safari) that calculates and displays the CO2 emissions incurred when driving (or using public transportation) on routes suggested by map services such as Google Maps, Here and Open Street Map. 
 
-In 2016, we had GSoC students who, among various other achievements, ported the extension to Firefox and Safari and expanded its scope to other map services. This year we would like to expand this even further and make Carbon Footprint work as a mobile app.
+In 2017, we had GSoC Students who, among various other achievements, expanded it even further to make Carbon Footprint work as a mobile app to calculate Real Time CO2 emissions incurred for both Android and iOS using React Native. The mobile app is still far from done and we need additional features and a little polishing to finally release it.
 
-There is an [ongoing discussion](https://github.com/OiWorld/CarbonFootprint/issues/135) in our issues list about how to achieve this technically challenging goal. Please consider the challenges and possible solutions discussed there when preparing your proposal.
+There is an [ongoing repository](https://gitlab.com/aossie/CarbonFootprint-Mobile/) which holds the code and issues on how to achieve this goal. Please consider the challenges and possible solutions discussed there when preparing your proposal. 
+In repository, some issues are labeled as GSoC-Tasks. Try to solve those issues and showcase your skills to us. 
 
 
 #### Requirements
 
 For this project, we are looking for a student with:
 
-- excellent knowledge of Javascript, HTML, CSS.
+- excellent knowledge of React Native.
 
-- experience implementing mobile apps
+- experience implementing mobile apps.
 
 
 #### Mentors
 
-Chirag Arora, Kolya Opahle, Prateek Gupta, Bruno Woltzenlogel Paleo
-
-
+Amit Kanwar, Anuj Gupta, Bruno Woltzenlogel Paleo
