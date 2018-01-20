@@ -57,13 +57,9 @@ ideas:
   id: 1
   description: agora-algorithms.md
 - project: Agora
-  title: Front-End for Agora-web
+  title: Front-End & REST Api for Agora-web
   id: 2
-  description: agora-web-front.md
-- project: Agora
-  title: REST API for Agora-web
-  id: 2
-  description: agora-web-rest.md
+  description: agora-web.md
 - project: Carbon Footprint
   title: Mobile App
   id: 3
