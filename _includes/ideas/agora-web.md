@@ -1,35 +1,35 @@
 
 ## Agora
 
-### Idea: Web Front-End for Agora
+### Idea: Front-End & REST API for Agora-web
 
 #### Description
 
-Agora is a library of data structures and algorithms for counting votes in elections. So far, Agora has been available only as a library, to be included and used within other Scala or Java programs, or as a stand-alone command-line program. 
+Agora is a library of data structures and algorithms for counting votes in elections. For last year GSoC, we have built the Agora-web, A website to conduct online elections. This year, we have planned to extend the functionalities of the Agora-web. This project has two subprojects.
 
-This project idea aims to make Agora available to the wider public, by creating a web front-end that will allow users to set up online elections.
+- Now Agora-web has very minimalistic frontend design. We hoped to make Agora-Web more user-friendly and interactive. Also, we planned to decouple the front end completely from the backend.
 
-Other online voting systems (e.g. [OpaVote](https://www.opavote.com/)) are typically neither open-source nor free. We believe that implementations of vote-counting algorithms must be open-source, so that they can be scrutinized. We want to provide free software foundations for our democracies.
-
-We seek a user interface combining features of [OpaVote](https://www.opavote.com/) and [Doodle](http://doodle.com). We would like it to be at least as easy to set up an online election as it is easy to schedule an event in Doodle.
-
-
-
+- Convert Agora-web backend into a RESTful API based service.
 
 #### Requirements
 
 For this project, we are looking for a student:
 
-- experienced in Scala (or with solid programming skills in other object-oriented and functional programming languages and willing to learn Scala).
+- Experienced in frontend development and frameworks( Angular, React)
 
-- preferably with knowledge of the [Play framework](https://www.playframework.com) for web development in Scala.
+- Ability to design user friendly and interactive interfaces.
 
-- with knowledge of databases, to store elections persistently.
+- Basic understating of Client - Server architecture model and REST API concepts.
 
-- preferably with previous experience setting up web apps in cloud platforms like Heroku, Google App Engine or [others](https://www.quora.com/What-are-some-cheap-alternatives-to-Heroku-that-are-always-on).
+- Experienced in Scala (or with solid programming skills in other object-oriented and functional programming languages and willing to learn Scala).
 
-- with ability to produce a simple HTML/CSS interface using a minimalistic framework (e.g. [Bootstrap](http://getbootstrap.com) or [others](http://www.hongkiat.com/blog/bootstrap-alternatives/)).
+- Preferably with knowledge of the [Play framework](https://www.playframework.com) for web development in Scala.
 
+- Basic knowledge in Swagger (OpenAPI Specification).
+
+- Knowledge in RESTful web services.
+
+- Preferably with previous experience setting up web apps in cloud platforms like Heroku, Google App Engine or [others](https://www.quora.com/What-are-some-cheap-alternatives-to-Heroku-that-are-always-on).
 
 You don't have to be an expert in all these skills. Some previous experience in related skills and a lot of motivation to learn quickly would suffice.
 
