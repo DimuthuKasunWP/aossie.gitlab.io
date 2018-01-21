@@ -84,6 +84,10 @@ ideas:
   title: Google Sky Maps
   id: 8
   description: stardroid.md
+- project: CrowdAlert
+  title: Mobile App
+  id: 9
+  description: crowd-alert.md
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
