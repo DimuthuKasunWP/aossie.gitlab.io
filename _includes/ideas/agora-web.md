@@ -1,7 +1,7 @@
 
 ## Agora
 
-### Idea: Front-End & REST API for Agora-web
+### Idea: Front-End & REST API
 
 #### Description
 
