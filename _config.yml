@@ -53,68 +53,40 @@ people:
 # Ideas
 ideas:
 - project: Agora
-  title: More Algorithms
-  id: 1
-  description: agora-algorithms.md
-- project: Agora
   title: Front-End & REST Api for Agora-web
-  id: 2
+  id: 1
   description: agora-web.md
 - project: Carbon Footprint
   title: Mobile App
-  id: 3
+  id: 2
   description: footprint-mobile.md
 - project: Carbon Footprint
-  title: Footprint for Flights
-  id: 4
-  description: footprint-flights.md
-- project: Carbon Footprint
   title: API
-  id: 5
+  id: 3
   description: footprint-api.md
 - project: Carbon Footprint
   title: WebExtensions
-  id: 6
+  id: 4
   description: footprint-webext.md
 - project: Carbon Footprint
   title: macOS App
-  id: 7
+  id: 5
   description: footprint-macOS.md
 - project: Computational Philosophy
   title: Library for Philosophical Logic
-  id: 8
+  id: 6
   description: philosophy.md
 - project: Mind The Word
   title: Firefox and Safari Ports
-  id: 9
+  id: 7
   description: mtw-ports.md
-- project: Mind The Word
-  title: Mobile App
-  id: 10
-  description: mtw-mobile.md
-- project: Scavenger
-  title: Equality Reasoning
-  id: 11
-  description: scavenger-equality.md
-- project: Scavenger
-  title: Parallel Theorem Proving
-  id: 12
-  description: scavenger-parallel.md
 - project: Scavenger
   title: Search Improvements
-  id: 13
+  id: 8
   description: scavenger-improvements.md
-- project: Skeptik
-  title: Interpolation
-  id: 14
-  description: skeptik-interpolation.md
-- project: Skeptik
-  title: Boosting Performance!
-  id: 15
-  description: skeptik-performance.md
 - project: Stardroid
   title: Google Sky Maps
-  id: 16
+  id: 9
   description: stardroid.md
 
 
