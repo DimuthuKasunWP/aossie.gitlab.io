@@ -53,7 +53,7 @@ people:
 # Ideas
 ideas:
 - project: Agora
-  title: Front-End & REST Api for Agora-web
+  title: Front-End & REST Api
   id: 1
   description: agora-web.md
 - project: Carbon Footprint
