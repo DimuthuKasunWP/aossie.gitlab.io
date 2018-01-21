@@ -68,25 +68,21 @@ ideas:
   title: WebExtensions
   id: 4
   description: footprint-webext.md
-- project: Carbon Footprint
-  title: macOS App
-  id: 5
-  description: footprint-macOS.md
 - project: Computational Philosophy
   title: Library for Philosophical Logic
-  id: 6
+  id: 5
   description: philosophy.md
 - project: Mind The Word
   title: Firefox and Safari Ports
-  id: 7
-  description: mtw-ports.md
+  id: 6
+  description: mtw.md
 - project: Scavenger
   title: Search Improvements
-  id: 8
+  id: 7
   description: scavenger-improvements.md
 - project: Stardroid
   title: Google Sky Maps
-  id: 9
+  id: 8
   description: stardroid.md
 
 
