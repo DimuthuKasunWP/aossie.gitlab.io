@@ -5,9 +5,11 @@
 
 #### Description
 
-Scavenger is a new theorem prover (implemented in 2016) based on the [Conflict Resolution](https://arxiv.org/pdf/1602.04568v1.pdf) calculus, which generalizes conflict-driven clause learning ([CDCL](https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning)) to first-order logic. 
+**Note: due to low mentoring capacity for this project this year, we will only accept very strong students with lots of experience in Scala and logic, who are able to work well independently.**
 
-Although it currently has a proof searcdh strategy that is believed to be complete, it is clear that there still many things that could be improved:
+Scavenger is a new theorem prover (implemented in 2016 and 2017) based on the [Conflict Resolution](https://arxiv.org/pdf/1602.04568v1.pdf) calculus, which generalizes conflict-driven clause learning ([CDCL](https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning)) to first-order logic. 
+
+Although it currently has a proof search strategy that is believed to be complete, it is clear that there are still many things that could be improved:
 
 1. we could use indexing techniques to reduce the number of unification attempts.
 2. we should not reset the set of decision literals after every conflict. Instead, we should try to back-track non-chronologically, as SAT-solvers do.
@@ -20,13 +22,9 @@ Although it currently has a proof searcdh strategy that is believed to be comple
 
 For this project, we are looking for a student with:
 
-- experience in Scala (or with solid programming skills in other object-oriented and functional programming languages and willing to learn Scala).
+- excellent knowledge of Scala.
 
-- firm knowledge of logic (especially first-order logic and unification)
-
-- willingness to do performance regression tests (with Scalameter) and experiments to evaluate how helpful the proof search improvements are.
-
-- technical creativity to fill the gaps and formulate the idea described above in a mathematically precise way.
+- excellent knowledge of logic.
 
 
 #### Mentors
