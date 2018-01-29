@@ -27,4 +27,4 @@ For this project, we are looking for a student with:
 
 #### Mentors
 
-Chirag Arora, Vaibhav Sharma, Nakul Havelia, Bruno W. Paleo.
+Bruno Woltzenlogel Paleo, Chirag Arora, Kolya Opahle, Prateek Gupta, Vaibhav Sharma, Nakul Havelia.
