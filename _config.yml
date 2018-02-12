@@ -1,5 +1,5 @@
 url: https://aossie.gitlab.io
-baseurl: 
+baseurl:
 
 exclude:
   - vendor
@@ -41,7 +41,7 @@ people:
 
 - name: Chirag Arora
   pic: 3
-  position: 
+  position:
   social:
     - title: twitter
       url: #
@@ -60,14 +60,14 @@ ideas:
   title: Mobile App
   id: 2
   description: footprint-mobile.md
-- project: Carbon Footprint
-  title: API
+- project: Carbon Footprint API
+  title: Improving API
   id: 3
-  description: footprint-api.md
+  description: footprint-api-improvement.md
 - project: Carbon Footprint
-  title: WebExtensions
+  title: Trains Emission Calculation
   id: 4
-  description: footprint-webext.md
+  description: footprint-trains.md
 - project: Computational Philosophy
   title: Library for Philosophical Logic
   id: 5
@@ -84,6 +84,14 @@ ideas:
   title: Google Sky Maps
   id: 8
   description: stardroid.md
+- project: CrowdAlert
+  title: Mobile App
+  id: 9
+  description: crowd-alert.md
+- project: Carbon Footprint API
+  title: Expanding Api with ML
+  id: 10
+  description: footprint-api-expanding.md
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -94,7 +102,7 @@ social:
 #    url:
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket 
+#  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
   - title: github
     url: http://www.gitlab.com/aossie
