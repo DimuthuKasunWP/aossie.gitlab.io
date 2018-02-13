@@ -12,7 +12,7 @@ When asked for future plans, the app's lead maintainer once told me:
 
 We can start by addressing the piled up issue tracker on GitHub. But since this project is new to our organization, we are open to suggestions! You are welcome to come up with your own creative ideas about how can the project's current state be transformed into something more modular so that it can compete with others in the market.  
 
-We'll be starting Gitter/IRC soon to discuss prospects over there.
+Feel free to drop on [Gitter](https://gitter.im/GSoC-AOSSIE/Stardroid).
 
 #### Requirements
 
@@ -20,6 +20,8 @@ For this project, we are looking for a student:
 
 - with knowledge and experience of building Mobile apps on Android and/or other platforms, react-native (if we decide to build this project from scratch on this to support iOS and Android), any other cross-platform framework.
 
+- with UI/UX skills to revamp the app and make it aesthetically appealing to the end user.
+
 - with slight astronomical temperament that could be beneficial to understand the app's working and invoke interest to implement new features or better yet, improve existing ones.
 
-- some experience of working with mobile sensors such as accelerometers, compass and gyroscopes is an asset but not essential.
+- with some experience of working with mobile sensors such as accelerometers, compass and gyroscopes is an asset but not essential.
