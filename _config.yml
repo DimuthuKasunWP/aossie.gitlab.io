@@ -73,7 +73,7 @@ ideas:
   id: 5
   description: philosophy.md
 - project: Mind The Word
-  title: Firefox and Safari Ports
+  title: Making Mind the Word robust, user-friendly and production-ready
   id: 6
   description: mtw.md
 - project: Scavenger
