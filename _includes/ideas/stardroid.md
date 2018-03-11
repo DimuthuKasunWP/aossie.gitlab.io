@@ -12,7 +12,8 @@ When asked for future plans, the app's lead maintainer once told me:
 
 There is also a demand for an iOS version of this app. So this is a good time to consider cross-platform frameworks such as React-Native. You are welcome to come up with your own creative ideas about how can the project be transformed into something more modular so that it can compete with others in the market. Since no original maintainer of this project would be available to mentor, we would love to have someone who likes working independently.  
 
-You can check out the current repository of the project over [here](https://github.com/sky-map-team/stardroid)
+You can check out the current repository of the project over [here](https://github.com/sky-map-team/stardroid).
+
 Feel free to drop on [Gitter](https://gitter.im/GSoC-AOSSIE/Stardroid).
 
 #### Requirements
