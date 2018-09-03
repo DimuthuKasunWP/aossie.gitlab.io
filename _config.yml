@@ -117,3 +117,9 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+tasks:
+- project: Agora
+  title: Write a blog post about use cases of various voting algorithms
+  id: 1
+  description: blogpost.md

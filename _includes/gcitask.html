@@ -1,0 +1,28 @@
+<!-- tasks Grid Section -->
+    <section id="tasks" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Tasks</h2>
+                    <h3 class="section-subheading text-muted">These are the example tasks for Google Code-In 2018.</h3>
+                </div>
+            </div>
+            <div class="row">
+            {% for task in site.tasks %}
+            	<a href="#tasksModal{{ task.id }}" class="ideas-link" data-toggle="modal">
+                	<div class="col-md-4 col-sm-6 ideas-item">
+                        <div class="ideas-hover">
+                            <div class="ideas-hover-content">
+                                <i class="fa fa-lightbulb-o fa-3x"></i>
+                            </div>
+                        </div>
+	                    <div class="ideas-caption">
+	                        <h4>{{ task.title }}</h4>
+	                        <p class="text-muted">{{ task.project }}</p>
+	                    </div>
+                	</div>
+                </a>
+            {% endfor %}
+            </div>
+        </div>
+    </section>

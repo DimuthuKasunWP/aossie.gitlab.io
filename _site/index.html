@@ -73,6 +73,9 @@
                         <a class="page-scroll" href="#ideas">Ideas</a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="#tasks">GCI Tasks</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#apply">How to Apply</a>
                     </li>
                     <li>
@@ -98,8 +101,6 @@
             <div class="intro-text">
 
             <img src="img/AOSSIE_logo_11_cropped_15cm.png" class="img-responsive img-centered" alt=""></a>
-
-            
 
                 <div class="intro-lead-in"></div>
                 <div class="intro-heading"></div>
@@ -306,7 +307,7 @@
                         </div>
                         <!--<img src="img/idea-images/" class="img-responsive img-centered" alt="">-->
 	                    <div class="ideas-caption">
-	                        <h4>Firefox and Safari Ports</h4>
+	                        <h4>Making Mind the Word robust, user-friendly and production-ready</h4>
 	                        <p class="text-muted">Mind The Word</p>
 	                    </div>
                 	</div>
@@ -366,7 +367,7 @@
                         </div>
                         <!--<img src="img/idea-images/" class="img-responsive img-centered" alt="">-->
 	                    <div class="ideas-caption">
-	                        <h4>Expanding Api</h4>
+	                        <h4>Expanding Api with ML</h4>
 	                        <p class="text-muted">Carbon Footprint API</p>
 	                    </div>
                 	</div>
@@ -376,6 +377,34 @@
         </div>
     </section>
 
+    <!-- tasks Grid Section -->
+    <section id="tasks" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Tasks</h2>
+                    <h3 class="section-subheading text-muted">These are the example tasks for Google Code-In 2018.</h3>
+                </div>
+            </div>
+            <div class="row">
+            
+            	<a href="#tasksModal1" class="ideas-link" data-toggle="modal">
+                	<div class="col-md-4 col-sm-6 ideas-item">
+                        <div class="ideas-hover">
+                            <div class="ideas-hover-content">
+                                <i class="fa fa-lightbulb-o fa-3x"></i>
+                            </div>
+                        </div>
+	                    <div class="ideas-caption">
+	                        <h4>Write a blogpost about usecases of various voting algorithms</h4>
+	                        <p class="text-muted">Agora</p>
+	                    </div>
+                	</div>
+                </a>
+            
+            </div>
+        </div>
+    </section>
         <section id="apply">
         <div class="container">
             <div class="row">
@@ -501,7 +530,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Please use the googlegroup forum embedded below to ask questions and communicate with us.</h3>
+                    <h3 class="section-subheading text-muted">Please use our <a href="https://gitter.im/GSoC-AOSSIE/">Gitter Channels</a> to communicate with us.</h3>
                 </div>
             </div>
             <div class="row">
@@ -799,7 +828,7 @@ project is live at <a href="https://carbonhub.xyz">https://carbonhub.xyz</a></p>
 
 <h4 id="mentors">Mentors</h4>
 
-<p>Chirag Arora, Saisankar Gochhayat, Vaibhav Sharma, Nakul Havelia, Bruno W. Paleo</p>
+<p>Bruno Woltzenlogel Paleo, Chirag Arora, Kolya Opahle, Prateek Gupta, Saisankar Gochhayat, Vaibhav Sharma, Nakul Havelia.</p>
 
 
 <!--
@@ -869,7 +898,7 @@ project is live at the <a href="https://chrome.google.com/webstore/detail/carbon
 
 <h4 id="mentors">Mentors</h4>
 
-<p>Chirag Arora, Vaibhav Sharma, Nakul Havelia, Bruno W. Paleo.</p>
+<p>Bruno Woltzenlogel Paleo, Chirag Arora, Kolya Opahle, Prateek Gupta, Vaibhav Sharma, Nakul Havelia.</p>
 
 
 <!--
@@ -1132,36 +1161,38 @@ Nowadays, MTW is suffering competition from comercial alternatives, and we need 
 							
 <h2 id="stardroid">Stardroid</h2>
 
-<h3 id="idea-reviving-the-famous-google-sky-maps">Idea: Reviving the famous Google Sky Maps</h3>
+<h3 id="idea-building-google-sky-maps-from-scratch-on-a-cross-platform-framework">Idea: Building Google Sky Maps from scratch on a Cross-Platform framework</h3>
 
 <h4 id="description">Description</h4>
 
-<p>The Google <a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid">Sky Maps</a> app was open-sourced back in 2012. It is an amazing project but it looks like the original developers don’t have time to maintain this app actively anymore. Our aim is to bring this project back to life this year with the help of GSoC 2018 and of course, with the help of some hard working students endowed with it. You can check out the current GitHub repo of this project over <a href="https://github.com/sky-map-team/stardroid">here</a>.</p>
+<p>The Google <a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid">Sky Maps</a> app was open-sourced back in 2012. It is an amazing project but it looks like the original developers don’t have time to maintain this app actively anymore.</p>
 
 <p>When asked for future plans, the app’s lead maintainer once told me:</p>
 <blockquote>
   <blockquote>
-    <p><em>I have lots of plans: revamping the look and feel, of course, adding in more celestial objects and more features (and yet somehow doing so in a way that keeps this a really small app - I think that’s one of its strengths). I’d like to do crazy things like a VR mode. So…I have lots of things I want to do, and some kind folks have volunteered to help. Unfortunately I’ve been in one of my periodic Sky Map slumps for a few months where the Day Job has left little time for it.</em></p>
+    <p><em>I have lots of plans: revamping the look and feel, of course, adding in more celestial objects and more features (and yet somehow doing so in a way that keeps this a really small app - I think that’s one of its strengths). I’d like to do crazy things like a VR mode. So…I have lots of things I want to do, and some kind folks have volunteered to help. Unfortunately, I’ve been in one of my periodic Sky Map slumps for a few months where the Day Job has left little time for it.</em></p>
   </blockquote>
 </blockquote>
 
-<p>We can start by addressing the piled up issue tracker on GitHub. But since this project is new to our organization, we are open to suggestions! You are welcome to come up with your own creative ideas about how can the project’s current state be transformed into something more modular so that it can compete with others in the market.</p>
+<p>There is also a demand for an iOS version of this app. So this is a good time to consider cross-platform frameworks such as React-Native. You are welcome to come up with your own creative ideas about how can the project be transformed into something more modular so that it can compete with others in the market. Since no original maintainer of this project would be available to mentor, we would love to have someone who likes working independently.</p>
 
-<p>We’ll be starting Gitter/IRC soon to discuss prospects over there.</p>
+<p>You can check out the current repository of the project over <a href="https://github.com/sky-map-team/stardroid">here</a>.</p>
+
+<p>Feel free to drop on <a href="https://gitter.im/GSoC-AOSSIE/Stardroid">Gitter</a>.</p>
 
 <h4 id="requirements">Requirements</h4>
 
-<p>For this project, we are looking for a student:</p>
+<p>For this project, we are looking for a student who has:</p>
 
 <ul>
   <li>
-    <p>with knowledge and experience of building Mobile apps on Android and/or other platforms, react-native (if we decide to build this project from scratch on this to support iOS and Android), any other cross-platform framework.</p>
+    <p>knowledge and experience of building Mobile apps on native Android and iOS and/or cross-platform frameworks such as react-native.</p>
   </li>
   <li>
-    <p>with slight astronomical temperament that could be beneficial to understand the app’s working and invoke interest to implement new features or better yet, improve existing ones.</p>
+    <p>some astronomical and engineering temperament could be beneficial to understand the app’s working and invoke enough interest to implement new features or better yet, improve existing ones.</p>
   </li>
   <li>
-    <p>some experience of working with mobile sensors such as accelerometers, compass and gyroscopes is an asset but not essential.</p>
+    <p>some experience of working with mobile sensors (accelerometers, compass and gyroscopes) and rendering views on OpenGL ES. Having these skills is an asset but not essential.</p>
   </li>
 </ul>
 
@@ -1300,7 +1331,7 @@ project is live at <a href="https://carbonhub.xyz">https://carbonhub.xyz</a></p>
 
 <h4 id="mentors">Mentors</h4>
 
-<p>Chirag Arora, Saisankar Gochhayat, Vaibhav Sharma, Nakul Havelia, Bruno W. Paleo</p>
+<p>Bruno Woltzenlogel Paleo, Chirag Arora, Kolya Opahle, Prateek Gupta, Saisankar Gochhayat, Vaibhav Sharma, Nakul Havelia.</p>
 
 
 <!--
@@ -1316,6 +1347,47 @@ project is live at <a href="https://carbonhub.xyz">https://carbonhub.xyz</a></p>
                                 </li>
                             </ul>
 -->
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+     <!-- tasks Modals -->
+ 
+    <div class="ideas-modal modal fade" id="tasksModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+
+                        	
+							<h4 id="write-a-blog-post-about-use-cases-of-various-voting-algorithms">Write a blog post about use cases of various voting algorithms</h4>
+
+<ul>
+  <li>
+    <p><strong>Description:</strong>
+Research about the various voting algorithms and the real world use cases of those algorithms. Write a small blog of around 700 words in English about your findings.</p>
+  </li>
+  <li>
+    <p><strong>Tags:</strong> voting algorithms, study, case study, blogging</p>
+  </li>
+  <li>
+    <p><strong>Categories:</strong> Outreach/Research</p>
+  </li>
+</ul>
+
+
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
