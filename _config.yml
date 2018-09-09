@@ -123,3 +123,19 @@ tasks:
   title: Write a blog post about use cases of various voting algorithms
   id: 1
   description: blogpost.md
+
+- project: Carbon Footprint
+  title: Migrate Code of Carbon Calulators to a different page
+  id: 2
+  description: calculator.md
+
+- project: Carbon Footprint
+  title: Migrate Code of Air Quality Index to a different page
+  id: 3
+  description: airQualityIndex.md
+
+
+- project: Carbon Footprint
+  title: Link the newly created pages to main extension
+  id: 4
+  description: link.md
