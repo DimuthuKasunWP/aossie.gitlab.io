@@ -139,3 +139,20 @@ tasks:
   title: Link the newly created pages to main extension
   id: 4
   description: link.md
+  
+- project: Mind The Word
+  title: Recommend design changes for extension.
+  id: 5
+  description: redesignMTW.md
+
+- project: Mind The Word
+  title: Add new statistical measures
+  id: 6
+  description: statsMTW.md
+  
+- project: Mind The Word
+  title: Record video tutorials for extension configuration
+  id: 7
+  description: videoTutorial.md
+  
+  
