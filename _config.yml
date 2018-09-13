@@ -134,12 +134,11 @@ tasks:
   id: 3
   description: airQualityIndex.md
 
-
 - project: Carbon Footprint
   title: Link the newly created pages to main extension
   id: 4
   description: link.md
-  
+
 - project: Mind The Word
   title: Recommend design changes for extension.
   id: 5
@@ -149,26 +148,48 @@ tasks:
   title: Add new statistical measures
   id: 6
   description: statsMTW.md
-  
+
 - project: Mind The Word
   title: Record video tutorials for extension configuration
   id: 7
   description: videoTutorial.md
-  
+
 - project: Computational Philosophy
   title:   Understand the Philosophy
   id: 8
   description: cptask1.md
-  
+
 - project: Computational Philosophy
   title: Formalizing the argument
   id: 9
   description: cptask2.md
-  
+
 - project: Computational Philosophy
   title: Proving theorems
   id: 10
   description: cptask3.md
-   
-  
-  
+
+- project: Carbon Footprint - Mobile
+  title: Setup up code in the local system and update documentation
+  id: 11
+  description: setupTheCode.md
+
+- project: Crowd Alert-Mobile
+  title: Make a youtube video/ blog post
+  id: 12
+  description: videoBlogPost.md
+
+- project: Crowd Alert-Mobile
+  title: Testing the application
+  id: 13
+  description: testTheApp.md
+
+- project: Crowd Alert-Mobile
+  title: Check forms for input validation
+  id: 14
+  description: inputVal.md
+
+- project: Crowd Alert-Mobile
+  title: Bug fixing
+  id: 14
+  description: BugFixAlert.md
