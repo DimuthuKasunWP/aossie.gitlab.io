@@ -13,7 +13,7 @@ As this task requires working with web extensions, students are advised to refer
   2. [https://developer.chrome.com/extensions/getstarted](https://developer.chrome.com/extensions/getstarted)
 - **Tags:** code migration, HTML5, CSS, Javascript, Web extension
 
-- **Categories:** Coding/Design
+- **Categories:** Coding, Design
 
 
 

@@ -6,7 +6,7 @@ Currently, the section of Air Quality Index is present in know More section of e
 
 - **Tags:** code migration, HTML5, CSS, Javascript
 
-- **Categories:** Coding/Design
+- **Categories:** Coding, Design
 
 
 

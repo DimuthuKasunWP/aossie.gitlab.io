@@ -8,3 +8,5 @@ in the internet. also please add a link to the place from where you take someone
 hint: for the argument in the task1 file you can see- https://github.com/Manikaran20/Isabelle/blob/master/Rene_descartes.thy
 
 - **Tags:** Philosophy,logic,Isabelle.
+
+- **Categories:** Outreach/Research, Coding

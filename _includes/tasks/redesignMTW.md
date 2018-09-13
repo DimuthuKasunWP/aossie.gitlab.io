@@ -13,4 +13,4 @@ It would involve talking to the users of the extension, taking their feedback an
 
 - **Tags:** Design, User Interface, User Experience
 
-- **Categories:** Outreach/Design/Quality Assurance
+- **Categories:** Outreach/Research, Design, Quality Assurance

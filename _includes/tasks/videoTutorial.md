@@ -8,4 +8,4 @@ This task requires the candidate to learn about the working of extension and mak
 
 - **Tags:** Video Tutorials, Configuration
 
-- **Categories:** Outreach/Research
+- **Categories:** Outreach/Research, Documents & Training

@@ -6,7 +6,7 @@ Currently, the calculators of CO2 emission from airplanes and calculator of CO2 
 
 - **Tags:** code migration, HTML5, CSS, Javascript
 
-- **Categories:** Coding/Design
+- **Categories:** Coding, Design
 
 
 

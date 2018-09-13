@@ -11,4 +11,4 @@ This would involve making a queue for the data, and then using Google's Charts A
 
 - **Tags:** Charts, Statisitcs, Processing
 
-- **Categories:** Design/Coding
+- **Categories:** Design, Coding
