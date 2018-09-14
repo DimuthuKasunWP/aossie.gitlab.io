@@ -1,4 +1,4 @@
-#### Do you understand Philosophy? 
+#### Do you understand Philosophy?
 
 - **Description:**
 
