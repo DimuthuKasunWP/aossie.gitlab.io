@@ -193,3 +193,19 @@ tasks:
   title: Bug fixing
   id: 15
   description: BugFixAlert.md
+- project: Agora web
+  title: Implement Aprroval ballot
+  id: 16
+  description: approvalBallot.md
+- project: Agora web
+  title: Add content to the help page
+  id: 17
+  description: helpPage.md
+- project: Agora web
+  title: Add content to the about page
+  id: 18
+  description: aboutPage.md
+- project: Agora web
+  title: Implement two factor authentcation
+  id: 19
+  description: approvalBallot.md
