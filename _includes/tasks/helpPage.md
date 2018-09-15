@@ -7,4 +7,4 @@ Investigate how agora web can be used to create elections. Write down the steps 
 
 - **Tags:** HTML, CSS, Typescript, Angular
 
-- **Categories:** Research/Coding
+- **Categories:** Documents & Training, Coding, Design, Outreach/Research

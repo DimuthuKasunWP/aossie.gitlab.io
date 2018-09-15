@@ -7,4 +7,4 @@ The Approval Ballot will be used in the future by the Approval voting method. Al
 
 - **Tags:** Angular, Scala, Play Framework, REST API
 
-- **Categories:** Coding
+- **Categories:** Coding, Design

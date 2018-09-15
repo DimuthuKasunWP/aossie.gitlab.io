@@ -7,4 +7,4 @@ We have an empty about page on agora web(the frontend). The task will consist of
 
 - **Tags:** HTML, CSS, Typescript, Angular
 
-- **Categories:** Research/Coding
+- **Categories:** Documents & Training, Coding, Design, Outreach/Research

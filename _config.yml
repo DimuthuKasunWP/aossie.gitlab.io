@@ -209,3 +209,15 @@ tasks:
   title: Implement two factor authentcation
   id: 19
   description: twoFactorAuth.md
+- project: Agora web
+  title: Blog about tests in angular
+  id: 20
+  description: agoraWebTest.md
+- project: Agora web
+  title: Fix css errors in agora web frontend
+  id: 21
+  description: cssErrors.md
+- project: Agora web
+  title: Fix link ridirect issue in profile page
+  id: 22
+  description: redirectError.md
