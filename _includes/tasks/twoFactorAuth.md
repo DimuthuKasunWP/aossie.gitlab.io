@@ -7,4 +7,4 @@ Design two-factor authentication for Agora web. This task will involve adding tw
 
 - **Tags:** Angular, Scala, Play Framework, REST API
 
-- **Categories:** Coding
+- **Categories:** Coding, Design
