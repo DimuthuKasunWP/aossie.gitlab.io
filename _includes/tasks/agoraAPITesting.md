@@ -6,11 +6,14 @@
 Let's create API endpoint testing for Agora-web.
 
 Use 
-https://www.playframework.com/documentation/2.6.x/ScalaFunctionalTestingWithScalaTest#Testing-with-a-server 
+https://www.playframework.com/documentation/2.6.x/ScalaFunctionalTestingWithScalaTest#Testing-with-a-server
 to write tests for APIs.
 
+EXample:
+
+```
 class PostServerSpec extends PlaySpec with GuiceOneServerPerSuite {
-  
+
   "test server logic" in {
     val wsClient = app.injector.instanceOf[WSClient]
     val server =  s"localhost:$port"
@@ -28,8 +31,7 @@ class PostServerSpec extends PlaySpec with GuiceOneServerPerSuite {
     (elem0 \ "body").as[String] mustBe "blog post 1"    
   }
 }
-
-Update the Documetation
+```
 
 - **Tags:** Scala, Scala test, REST API
 

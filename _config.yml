@@ -210,18 +210,14 @@ tasks:
   id: 19
   description: twoFactorAuth.md
 - project: Agora web
-  title: Blog about tests in angular
-  id: 20
-  description: agoraWebTest.md
-- project: Agora web
   title: Fix css errors in agora web frontend
-  id: 21
+  id: 20
   description: cssErrors.md
 - project: Agora web
   title: Fix link ridirect issue in profile page
-  id: 22
+  id: 21
   description: redirectError.md
 - project: Agora web
   title: Rest API testing for Agora-web
-  id: 23
+  id: 22
   description: agoraAPITesting.md
