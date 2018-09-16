@@ -193,3 +193,35 @@ tasks:
   title: Bug fixing
   id: 15
   description: BugFixAlert.md
+- project: Agora web
+  title: Implement Aprroval ballot
+  id: 16
+  description: approvalBallot.md
+- project: Agora web
+  title: Add content to the help page
+  id: 17
+  description: helpPage.md
+- project: Agora web
+  title: Add content to the about page
+  id: 18
+  description: aboutPage.md
+- project: Agora web
+  title: Implement two factor authentcation
+  id: 19
+  description: twoFactorAuth.md
+- project: Agora web
+  title: Blog about tests in angular
+  id: 20
+  description: agoraWebTest.md
+- project: Agora web
+  title: Fix css errors in agora web frontend
+  id: 21
+  description: cssErrors.md
+- project: Agora web
+  title: Fix link ridirect issue in profile page
+  id: 22
+  description: redirectError.md
+- project: Agora web
+  title: Rest API testing for Agora-web
+  id: 23
+  description: agoraAPITesting.md
