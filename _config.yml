@@ -221,3 +221,15 @@ tasks:
   title: Rest API testing for Agora-web
   id: 22
   description: agoraAPITesting.md
+- project: CarbonFootprint-Action
+  title: Support queries regarding emissions caused due to different Agricultural processes
+  id: 23
+  description: agriculturalProcessesAction.md
+- project: CarbonFootprint-Action
+  title: Design a banner and an icon for CarbonFootprint-Action
+  id: 24
+  description: bannerIconDesign.md
+- project: CarbonFootprint-Action
+  title: Document the usage of CarbonFootprint-Action
+  id: 25
+  description: documentAssistantAction.md
