@@ -14,7 +14,7 @@ CarbonFootprint Action  is a Google Assistant Action that supports several categ
 
 - **Steps & Instructions:**
     - Clone the CarbonAssistant Function repository.
-    - Create a issue about this task in the gitlab repo.
+    - Create an issue about this task in the gitlab repo.
     - Plan how you intend to get started with the task, discuss with the mentors about your approach and any doubts you have.
     - Try to deploy the function and the agent unmodified by creating your own Google 'Actions on Google' project. Use the deployment guide in the repository README for this.
     - Verify everything is fine and working. This will be your own test environment. If you have any trouble creating a project or deploying, reach out to the mentors.
