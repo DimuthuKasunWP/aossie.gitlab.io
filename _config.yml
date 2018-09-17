@@ -190,7 +190,7 @@ tasks:
   description: inputVal.md
 
 - project: Crowd Alert-Mobile
-  title: Bug fixing
+  title: Bug fixing in Crowd Alert-mobile
   id: 15
   description: BugFixAlert.md
 - project: Agora web
